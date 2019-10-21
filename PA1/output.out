@@ -1,0 +1,9 @@
+DIV_4* 04 
+AddOp + 
+Scientific 123.2e+2 
+AssignOp =
+RelOp <= 
+RelOp >= 
+RelOp < 
+RelOp > 
+

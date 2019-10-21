@@ -1,0 +1,14 @@
+First, you have to input the number of productions, n.
+Then you have to specify the starting variable. Please do not use P as a variable name. It is reserved for the starting variable.
+Then you have to input the n productions one by one.
+
+Finally, strings can be checked using the grammar. Input "quit" to break the loop. 
+Sample input: 
+
+3
+S
+S->AA
+A->aA
+A->b
+aabb
+
